@@ -17,8 +17,6 @@ Education
   * Research focus: wind power forecasting, time-series foundation models, and large-scale model training.
 * **Visiting Research Student (Government-Sponsored)**, The University of Western Australia, Nov. 2024 – May 2025
   * Host supervisor: Professor Tongming Zhou. AI-driven wind power forecasting and large-scale experiments.
-* **B.Eng. in Electrical Engineering and Automation**, Henan Institute of Science and Technology, 2023 (GPA: 3.48/4.00)
-
 Work experience
 ======
 * **Meteorological Foundation Model Algorithm Engineer**, Ming Yang Smart Energy Group Beijing Technology Co., Ltd. (Jul. 2026 – Present)

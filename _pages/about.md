@@ -30,9 +30,6 @@ Research focus: wind power forecasting, time-series foundation models, and large
 Government-Sponsored Visiting Research Student
 Host supervisor: Professor Tongming Zhou. Conducted research on AI-driven wind power forecasting and large-scale experiments.
 
-**Henan Institute of Science and Technology** — Xinxiang, China · Sep. 2019 – Jun. 2023
-B.Eng. in Electrical Engineering and Automation · GPA: 3.48/4.00
-
 ## Industry Experience
 
 **Ming Yang Smart Energy Group Beijing Technology Co., Ltd.** — Beijing, China · Jul. 2026 – Present
