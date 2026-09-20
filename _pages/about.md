@@ -41,6 +41,6 @@ Host supervisor: Professor Tongming Zhou. Conducted research on AI-driven wind p
 ## Honors and Awards
 
 - **National Scholarship for Graduate Students**, Ministry of Education, 2025
-- **Outstanding Master's Thesis Award**, Shanxi University, 2026
+- **Outstanding Master's Thesis Award**, Shanxi Province, 2026
 - **Graduate Academic Scholarship**, Shanxi University, 2025
 - **Outstanding Graduate**, Henan Institute of Science and Technology, 2023
